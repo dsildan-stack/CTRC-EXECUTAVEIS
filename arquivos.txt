@@ -1,5 +1,0 @@
-CTRC.exe
-Fechamento.db
-Fechamento.PX
-Fechamento.XG0
-Fechamento.YG0
